@@ -1,0 +1,60 @@
+export const pageBackground = '#2B2D42';
+export const pageBackgroundModalActive = '#3A3D5A';
+export const pageBackgroundTopLeft = '#FF006E';
+export const pageBackgroundBottomRight = '#8338EC';
+export const pageBackgroundLineTop = '#FB5607';
+export const pageBackgroundLineMid = '#FFBE0B';
+export const pageBackgroundLineBottom = '#FF006E';
+export const pageText = '#F8F9FA';
+export const pageTextLight = '#E0E0E0';
+export const pageTextSubdued = '#B0B0B0';
+export const pageTextDark = '#A0A0A0';
+export const pageTextPositive = '#FFBE0B';
+export const pageTextLink = '#FB5607';
+export const pageTextLinkLight = '#FF006E';
+
+export const cardBackground = '#8338EC';
+export const cardBorder = '#FF006E';
+export const cardShadow = '#FFBE0B';
+
+export const tableBackground = '#1B1D36';
+export const tableRowBackgroundHover = '#8338EC';
+export const tableText = '#F8F9FA';
+export const tableTextLight = '#E0E0E0';
+export const tableTextSubdued = '#B0B0B0';
+export const tableTextSelected = '#FFBE0B';
+export const tableTextHover = '#FB5607';
+export const tableTextInactive = '#B0B0B0';
+export const tableHeaderText = '#E0E0E0';
+export const tableHeaderBackground = '#8338EC';
+export const tableBorder = '#FF006E';
+export const tableBorderSelected = '#FB5607';
+export const tableBorderHover = '#FFBE0B';
+export const tableBorderSeparator = '#F8F9FA';
+export const tableRowBackgroundHighlight = '#FF006E';
+export const tableRowBackgroundHighlightText = '#F8F9FA';
+export const tableRowHeaderBackground = '#8338EC';
+export const tableRowHeaderText = '#F8F9FA';
+
+export const sidebarBackground = '#3D348B'; // Dark Purple
+export const sidebarItemBackgroundPending = '#FFBE0B'; // Golden Yellow
+export const sidebarItemBackgroundPositive = '#06D6A0'; // Neon Green
+export const sidebarItemBackgroundFailed = '#E63946'; // Bright Red
+export const sidebarItemAccentSelected = '#FF006E'; // Hot Pink
+export const sidebarItemBackgroundHover = '#8338EC'; // Intense Purple
+export const sidebarItemText = '#FAF0CA'; // Soft Cream
+export const sidebarItemTextSelected = '#FFD166'; // Bright Orange
+
+export const buttonPrimaryText = '#FFFFFF'; // Pure White
+export const buttonPrimaryBackground = '#D81159'; // Neon Magenta
+export const buttonPrimaryBackgroundHover = '#FF006E'; // Hot Pink
+export const buttonPrimaryBorder = '#8338EC'; // Deep Violet
+export const buttonPrimaryDisabledText = '#9A8C98'; // Muted Mauve
+export const buttonPrimaryDisabledBackground = '#C0C0C0'; // Silver Gray
+
+export const noticeBackground = '#06D6A0'; // Neon Green
+export const noticeText = '#F8FFE5'; // Soft Green
+export const warningBackground = '#FFD166'; // Bright Yellow
+export const warningText = '#E63946'; // Strong Red
+export const errorBackground = '#E63946'; // Bright Red
+export const errorText = '#FFFFFF'; // Pure White
